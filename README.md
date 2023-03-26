@@ -1,2 +1,2 @@
 # RetailManagementSystem
-BSCS First Semester Intro to Information & Communication Technology Project
+BSCS First Semester Intro to Information & Communication Technology Project in Python
