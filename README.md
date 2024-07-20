@@ -8,3 +8,4 @@ The Retail Management System is a project developed as a semester project while 
 - Sales Tracking
 - Customer Management
 - Reporting and Analytics
+- Formatted Output
