@@ -18,7 +18,7 @@ The Retail Management System is a project developed as a semester project while 
 
 ### Built With
 
-* ![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Installation
 This is how you can use the code
